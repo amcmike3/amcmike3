@@ -5,6 +5,3 @@
 - 💬 Ask me about how we can help veterans
 - 📫 How to reach me: amcmichael3@gmail.com
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
