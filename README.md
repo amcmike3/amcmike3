@@ -5,3 +5,6 @@
 - 💬 Ask me about how we can help veterans
 - 📫 How to reach me: amcmichael3@gmail.com
 
+<div align="center">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdharr&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
+</div>
